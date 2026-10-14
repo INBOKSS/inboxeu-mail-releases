@@ -19,9 +19,9 @@ Available for Windows, macOS, and Linux.
 - **Windows 10/11** — available on the [Microsoft Store](https://apps.microsoft.com/detail/9MXZ1TBVHRK6),
   which also handles updates automatically.
 - **macOS 12 or newer, Apple Silicon** — download the signed and Apple-notarized
-  **DMG** from [Releases](https://github.com/nimda5/inboxeu-mail-releases/releases).
+  **DMG** from [Releases](https://github.com/INBOKSS/inboxeu-mail-releases/releases).
 - **Linux x64** — download **AppImage** or **DEB** from
-  [Releases](https://github.com/nimda5/inboxeu-mail-releases/releases). AppImage
+  [Releases](https://github.com/INBOKSS/inboxeu-mail-releases/releases). AppImage
   requires FUSE 2. DEB is for compatible Debian/Ubuntu systems.
 
 The published Mac and Linux packages offer INBOX.EU (selected by default) and
