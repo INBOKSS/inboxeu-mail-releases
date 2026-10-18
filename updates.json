@@ -22,16 +22,16 @@
       "platform": "linux",
       "arch": "x64",
       "distribution": "appimage",
-      "version": "1.6.22",
-      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.22/inboxeu-mail-v1.6.22-linux-x64.AppImage"
+      "version": "1.6.23",
+      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-linux-x64.AppImage"
     },
     {
       "variant": "public",
       "platform": "linux",
       "arch": "x64",
       "distribution": "deb",
-      "version": "1.6.22",
-      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.22/inboxeu-mail-v1.6.22-linux-x64.deb"
+      "version": "1.6.23",
+      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-linux-x64.deb"
     }
   ]
 }
