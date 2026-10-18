@@ -15,7 +15,7 @@
       "arch": "arm64",
       "distribution": "dmg",
       "version": "1.6.23",
-      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-macos-apple-silicon.dmg"
+      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-macos-apple-silicon.dmg"
     },
     {
       "variant": "public",
@@ -23,7 +23,7 @@
       "arch": "x64",
       "distribution": "appimage",
       "version": "1.6.23",
-      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-linux-x64.AppImage"
+      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-linux-x64.AppImage"
     },
     {
       "variant": "public",
@@ -31,7 +31,7 @@
       "arch": "x64",
       "distribution": "deb",
       "version": "1.6.23",
-      "url": "https://github.com/nimda5/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-linux-x64.deb"
+      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.23/inboxeu-mail-v1.6.23-linux-x64.deb"
     }
   ]
 }
