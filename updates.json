@@ -22,16 +22,16 @@
       "platform": "linux",
       "arch": "x64",
       "distribution": "appimage",
-      "version": "1.6.24",
-      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.24/inboxeu-mail-v1.6.24-linux-x64.AppImage"
+      "version": "1.6.25",
+      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.25/inboxeu-mail-v1.6.25-linux-x64.AppImage"
     },
     {
       "variant": "public",
       "platform": "linux",
       "arch": "x64",
       "distribution": "deb",
-      "version": "1.6.24",
-      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.24/inboxeu-mail-v1.6.24-linux-x64.deb"
+      "version": "1.6.25",
+      "url": "https://github.com/INBOKSS/inboxeu-mail-releases/releases/download/v1.6.25/inboxeu-mail-v1.6.25-linux-x64.deb"
     }
   ]
 }
