@@ -46,19 +46,42 @@ mobile apps, and standard IMAP/SMTP so it plugs into any mail client.
 
 ## Screenshots
 
-Received attachments use responsive cards with image thumbnails, separate preview
-and download actions, and Download all for multiple files. The full-window image viewer supports
-Left/Right navigation and Escape; supported raster images up to 8 MiB can be
-previewed, while other files remain downloadable. Small thumbnails and bounded
-gallery images keep large originals out of the interface's image cache; downloads
-preserve the originals.
+Explore 20 views of INBOX.EU Mail. Click any image to see it at full size.
+These screenshots use an invented demo mailbox; signature results are illustrative.
 
-<p align="center">
-  <a href="screens/1.png"><img src="screens/1.png" width="190" alt="Inbox" /></a>
-  <a href="screens/2.png"><img src="screens/2.png" width="190" alt="Expanded message view" /></a>
-  <a href="screens/3.png"><img src="screens/3.png" width="190" alt="Preferences" /></a>
-  <a href="screens/4.png"><img src="screens/4.png" width="190" alt="Dark theme" /></a>
-</p>
+<p align="center"><a href="screens/showcase-01-inbox-three-pane.png"><img src="screens/showcase-01-inbox-three-pane.png" width="1000" alt="Your inbox, with room to read" /></a></p>
+
+### Mail and layouts
+
+| | |
+| --- | --- |
+| <a href="screens/showcase-02-compact-inbox.png"><img src="screens/showcase-02-compact-inbox.png" width="430" alt="Compact rows, with label filters in the sidebar" /></a><br /><sub>Compact rows, with label filters in the sidebar</sub> | <a href="screens/showcase-03-expanded-reader.png"><img src="screens/showcase-03-expanded-reader.png" width="430" alt="Expand a message for focused reading" /></a><br /><sub>Expand a message for focused reading</sub> |
+| <a href="screens/showcase-04-collapsed-sidebar.png"><img src="screens/showcase-04-collapsed-sidebar.png" width="430" alt="Collapse the sidebar and resize your workspace" /></a><br /><sub>Collapse the sidebar and resize your workspace</sub> |  |
+
+### Everyday tools
+
+| | |
+| --- | --- |
+| <a href="screens/showcase-05-labels-and-colours.png"><img src="screens/showcase-05-labels-and-colours.png" width="430" alt="Organise mail with named, coloured labels" /></a><br /><sub>Organise mail with named, coloured labels</sub> | <a href="screens/showcase-06-search-and-filters.png"><img src="screens/showcase-06-search-and-filters.png" width="430" alt="Search words and phrases, then narrow by label" /></a><br /><sub>Search words and phrases, then narrow by label</sub> |
+| <a href="screens/showcase-07-bulk-mail-actions.png"><img src="screens/showcase-07-bulk-mail-actions.png" width="430" alt="Select several messages and act together" /></a><br /><sub>Select several messages and act together</sub> | <a href="screens/showcase-08-rich-text-reply.png"><img src="screens/showcase-08-rich-text-reply.png" width="430" alt="Reply all with rich text and the original formatting" /></a><br /><sub>Reply all with rich text and the original formatting</sub> |
+| <a href="screens/showcase-09-calendar-invitation.png"><img src="screens/showcase-09-calendar-invitation.png" width="430" alt="Read meeting details and respond to invitations" /></a><br /><sub>Read meeting details and respond to invitations</sub> |  |
+
+### Attachments and Files
+
+| | |
+| --- | --- |
+| <a href="screens/showcase-10-message-attachments.png"><img src="screens/showcase-10-message-attachments.png" width="430" alt="Image thumbnails, document cards and Download all" /></a><br /><sub>Image thumbnails, document cards and Download all</sub> | <a href="screens/showcase-11-image-gallery.png"><img src="screens/showcase-11-image-gallery.png" width="430" alt="Open images in a full-window gallery" /></a><br /><sub>Open images in a full-window gallery</sub> |
+| <a href="screens/showcase-12-files-browser.png"><img src="screens/showcase-12-files-browser.png" width="430" alt="Browse attachments across your accounts" /></a><br /><sub>Browse attachments across your accounts</sub> | <a href="screens/showcase-13-files-filters-and-groups.png"><img src="screens/showcase-13-files-filters-and-groups.png" width="430" alt="Filter file types and group by sender" /></a><br /><sub>Filter file types and group by sender</sub> |
+| <a href="screens/showcase-14-files-image-preview.png"><img src="screens/showcase-14-files-image-preview.png" width="430" alt="Preview an image beside its message and file details" /></a><br /><sub>Preview an image beside its message and file details</sub> | <a href="screens/showcase-15-pdf-preview.png"><img src="screens/showcase-15-pdf-preview.png" width="430" alt="Read PDF attachments without leaving the app" /></a><br /><sub>Read PDF attachments without leaving the app</sub> |
+| <a href="screens/showcase-16-office-document-preview.png"><img src="screens/showcase-16-office-document-preview.png" width="430" alt="Local Word and Excel overviews, without installed Office" /></a><br /><sub>Local Word and Excel overviews, without installed Office</sub> | <a href="screens/showcase-17-electronic-signature-details.png"><img src="screens/showcase-17-electronic-signature-details.png" width="430" alt="Inspect signers, certificate checks and qualified status" /></a><br /><sub>Inspect signers, certificate checks and qualified status</sub> |
+
+### Appearance
+
+| | |
+| --- | --- |
+| <a href="screens/showcase-18-appearance-preferences.png"><img src="screens/showcase-18-appearance-preferences.png" width="430" alt="Choose your theme, row density and list direction" /></a><br /><sub>Choose your theme, row density and list direction</sub> | <a href="screens/showcase-19-dark-inbox.png"><img src="screens/showcase-19-dark-inbox.png" width="430" alt="The same workspace in a dark theme" /></a><br /><sub>The same workspace in a dark theme</sub> |
+| <a href="screens/showcase-20-dark-files-preview.png"><img src="screens/showcase-20-dark-files-preview.png" width="430" alt="Dark Files browser with document preview" /></a><br /><sub>Dark Files browser with document preview</sub> |  |
+
 
 ## Highlights
 

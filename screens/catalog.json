@@ -1,0 +1,186 @@
+{
+  "fixture": "mock-mail-data.showcase.ts",
+  "sceneTime": "2026-10-23T09:00:00Z",
+  "screenshots": [
+    {
+      "file": "showcase-01-inbox-three-pane.png",
+      "title": "Your inbox, with room to read",
+      "group": "Mail and layouts",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "28e3a81eaece33555e37325d926ca136286663beea7b0f3d5595194073ac4ee5"
+    },
+    {
+      "file": "showcase-02-compact-inbox.png",
+      "title": "Compact rows, with label filters in the sidebar",
+      "group": "Mail and layouts",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "71888962a7a1aa3e8f52710a522a05c1955866df850099939f4b1cef64849084"
+    },
+    {
+      "file": "showcase-03-expanded-reader.png",
+      "title": "Expand a message for focused reading",
+      "group": "Mail and layouts",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "b74772ed387e4368134daa655773cf95776c74e59d3c2c1ede40831a66ef2a25"
+    },
+    {
+      "file": "showcase-04-collapsed-sidebar.png",
+      "title": "Collapse the sidebar and resize your workspace",
+      "group": "Mail and layouts",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "4e944570d5f65981c0a4860a351b89327021a52ac2ec22f3016f398ab8223203"
+    },
+    {
+      "file": "showcase-05-labels-and-colours.png",
+      "title": "Organise mail with named, coloured labels",
+      "group": "Everyday tools",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "b3159a967d5992336b47bfe17c9e40b4fe105529232d6e9d41d821d61c3db48b"
+    },
+    {
+      "file": "showcase-06-search-and-filters.png",
+      "title": "Search words and phrases, then narrow by label",
+      "group": "Everyday tools",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "34117f00a15c55188338371a034332c5becc809e7ad60add33a098e74dfdc9a9"
+    },
+    {
+      "file": "showcase-07-bulk-mail-actions.png",
+      "title": "Select several messages and act together",
+      "group": "Everyday tools",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "44278040e4eabaeda7f09ca587e4c9a655caa2366a2b8b3c7a3c894504037422"
+    },
+    {
+      "file": "showcase-08-rich-text-reply.png",
+      "title": "Reply all with rich text and the original formatting",
+      "group": "Everyday tools",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "246702bee554efa107c13e3661ccd5d2daf4633e134f4d382f11312c25abd27f"
+    },
+    {
+      "file": "showcase-09-calendar-invitation.png",
+      "title": "Read meeting details and respond to invitations",
+      "group": "Everyday tools",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "da29abb00de1d0d085a465210652930d06effa103919f2e8b3a0e9962133c0f7"
+    },
+    {
+      "file": "showcase-10-message-attachments.png",
+      "title": "Image thumbnails, document cards and Download all",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "efc34f785b8e6ef112b5fb3e55c4a6bffafa3b187cd9a5debb2c60c4a5cc5235"
+    },
+    {
+      "file": "showcase-11-image-gallery.png",
+      "title": "Open images in a full-window gallery",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "8405ecdd47c3dd843e5ffdc9e1e2b8e5fa2c0e0440bb08a05d27fdffdb7d5f11"
+    },
+    {
+      "file": "showcase-12-files-browser.png",
+      "title": "Browse attachments across your accounts",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "cc8cdcdfe6b2d1333383279033e6dfa7344f2abbf181a5382b347a92e7219fa5"
+    },
+    {
+      "file": "showcase-13-files-filters-and-groups.png",
+      "title": "Filter file types and group by sender",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "8013cbede9b44b85ba5344ae97c247e2101a2e08a18ed3d9a035baa440e4c13c"
+    },
+    {
+      "file": "showcase-14-files-image-preview.png",
+      "title": "Preview an image beside its message and file details",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "c61ca8660f7e27f4b3389b3f33daaa4e2ae373ba4e1c43b800f20c6d24d05537"
+    },
+    {
+      "file": "showcase-15-pdf-preview.png",
+      "title": "Read PDF attachments without leaving the app",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "10ea2538503c7bd08a103e55baffd228f94b99bebd40c533bd1b9c3f41bbfba6"
+    },
+    {
+      "file": "showcase-16-office-document-preview.png",
+      "title": "Local Word and Excel overviews, without installed Office",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "64f3f4f5bcac3e3202ad0597fcfe6c02b348f4537141f3acd8eac188fb4e8ae7"
+    },
+    {
+      "file": "showcase-17-electronic-signature-details.png",
+      "title": "Inspect signers, certificate checks and qualified status",
+      "group": "Attachments and Files",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "e1d9071cca8b45e4d69255fb52e2cbbcf11733adc6c4b7079169b429f8613a03"
+    },
+    {
+      "file": "showcase-18-appearance-preferences.png",
+      "title": "Choose your theme, row density and list direction",
+      "group": "Appearance",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "f63c5a80f4c1d27c9a0277efd697efcb070fe2cca3002c87700130ba9456e75f"
+    },
+    {
+      "file": "showcase-19-dark-inbox.png",
+      "title": "The same workspace in a dark theme",
+      "group": "Appearance",
+      "theme": "dark",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "05483d21231e0ed1c73328b70ba2ce379cc3eb10188ad5d5fc1f3b8f41b5496b"
+    },
+    {
+      "file": "showcase-20-dark-files-preview.png",
+      "title": "Dark Files browser with document preview",
+      "group": "Appearance",
+      "theme": "dark",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "30e81492e777f7b5056d7d870a0b2c14cda1511b04f33ac19ed6a86fa2b4f09c"
+    }
+  ]
+}
