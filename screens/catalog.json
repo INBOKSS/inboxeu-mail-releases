@@ -181,6 +181,33 @@
       "width": 1600,
       "height": 1000,
       "sha256": "30e81492e777f7b5056d7d870a0b2c14cda1511b04f33ac19ed6a86fa2b4f09c"
+    },
+    {
+      "file": "showcase-21-all-accounts-inbox.png",
+      "title": "Browse mail across accounts and folders",
+      "group": "Mail and layouts",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "5df3a839efd9366c2a7feeac9382449f0cef2654546e7419cb251eaf57920682"
+    },
+    {
+      "file": "showcase-22-account-signatures.png",
+      "title": "Create a formatted signature for each account",
+      "group": "Everyday tools",
+      "theme": "light",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "87a29669da80de68b99c081f8aa9a39e80ffaa9975d454f122e6d3f54640e2f3"
+    },
+    {
+      "file": "showcase-23-dark-image-gallery.png",
+      "title": "View image attachments comfortably in the dark",
+      "group": "Appearance",
+      "theme": "dark",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "98f2de9302e9211c997f0f6fae4d70d26d201174319ec93537c941cef269698a"
     }
   ]
 }
