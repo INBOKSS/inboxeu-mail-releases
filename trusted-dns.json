@@ -1,0 +1,4 @@
+{
+  "schemaVersion": 1,
+  "dohEndpoints": ["https://dns.google/resolve", "https://cloudflare-dns.com/dns-query"]
+}
